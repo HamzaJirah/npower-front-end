@@ -1,0 +1,19 @@
+.container-fluid .row div {
+  height: 5rem;
+  color: #fff;
+  /* padding: 20rem; */
+}
+
+.col-sm-8 {
+  background: url(images/bg-content-min.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 16rem 0 26rem 0;
+}
+
+.col-sm-4 {
+  background: url(images/aside-min.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 16rem 0 26rem 0;
+}
